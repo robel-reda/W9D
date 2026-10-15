@@ -1,7 +1,7 @@
 
 let tweets = [
 {
-tweet: "Today is a beautiful day!",
+tweet: "Today is a best day!",
 username: "john123",
 created_at: "10-01-2026",
 age: 25
@@ -13,31 +13,31 @@ created_at: "10-02-2026",
 age: 19
 },
 {
-tweet: "Playing soccer with my friends.",
+tweet: "Playing soccer with my siblings.",
 username: "mike10",
 created_at: "10-03-2026",
 age: 16
 },
 {
-tweet: "Enjoying my weekend!",
+tweet: "Enjoying my weekdays!",
 username: "emma22",
 created_at: "10-04-2026",
 age: 30
 },
 {
-tweet: "School was fun today.",
+tweet: "class was fun today.",
 username: "alex15",
 created_at: "10-05-2026",
 age: 15
 },
 {
-tweet: "Working on a new project.",
+tweet: "Working on a new assignment.",
 username: "coder25",
 created_at: "10-06-2026",
 age: 25
 },
 {
-tweet: "I like playing video games.",
+tweet: "I like playing play-station .",
 username: "sam12",
 created_at: "10-07-2026",
 age: 12
@@ -49,13 +49,13 @@ created_at: "10-08-2026",
 age: 20
 },
 {
-tweet: "My favorite subject is science.",
+tweet: "My favorite subject is Biology.",
 username: "noah17",
 created_at: "10-09-2026",
 age: 17
 },
 {
-tweet: "Have a great day everyone!",
+tweet: "Have a great night everyone!",
 username: "david35",
 created_at: "10-10-2026",
 age: 35
